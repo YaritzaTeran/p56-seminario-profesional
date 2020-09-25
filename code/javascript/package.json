@@ -1,0 +1,15 @@
+{
+    " nombre " : " javascript " ,
+    " versión " : " 1.0.0 " ,
+    " description " : " Conceptos basicos de Javascript. " ,
+    " main " : " index.html " ,
+    " scripts " : {
+      " prueba " : " echo \" Error: no se especificó ninguna prueba \ " && salida 1 "
+    },
+    " palabras clave " : [
+      " javascript " ,
+      " fundamentos "
+    ],
+    " autor " : " Yaritza Teran " ,
+    " licencia " : " GPL-3.0 "
+  }
