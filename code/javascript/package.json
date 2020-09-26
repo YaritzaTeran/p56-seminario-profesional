@@ -4,7 +4,7 @@
   " description " : " Conceptos basicos de Javascript. " ,
   " main " : " index.html " ,
   " scripts " : {
-  " prueba " : " echo " Error: no se especificó ninguna prueba \ " &&  salida 1 "
+  " prueba " : " echo "   " &&  salida 1 "
   },
   " palabrasclave " : [
     "  javascript  " ,
