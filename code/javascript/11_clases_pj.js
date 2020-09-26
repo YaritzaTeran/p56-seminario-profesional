@@ -36,5 +36,10 @@ heredaDe (Deportista, Persona
     )
 var objeto1=new Persona (`Yaritza`, `Teran`, 1.60)
 objeto1.saludar()
+objeto1.soyAlto()
+
 var objeto2=new De[portista] (`Luis`, `Pico`, 1.80)
 objeto2.saludar()
+objeto2.altura =1.80
+objeto2.soyAlto()
+

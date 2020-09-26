@@ -4,9 +4,9 @@
   " description " : " Conceptos basicos de Javascript. " ,
   " main " : " index.html " ,
   " scripts " : {
-    " prueba " : " echo \" Error: no se especificó ninguna prueba \ "  &&  salida  1  "
+  " prueba " : " echo " Error: no se especificó ninguna prueba \ " &&  salida 1 "
   },
-  "  palabras  clave  " : [
+  " palabrasclave " : [
     "  javascript  " ,
     "  fundamentos  "
   ],
